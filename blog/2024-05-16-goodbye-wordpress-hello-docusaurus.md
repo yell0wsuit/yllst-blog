@@ -5,6 +5,7 @@ authors: yell0wsuit
 published: 2024-05-16
 tags: [announcement]
 hero: ./img/23146881654_92335f076a_o.webp
+enableComments: true
 ---
 
 ![](./img/23146881654_92335f076a_o.webp)
@@ -19,4 +20,4 @@ Not only that, its editors are very inconvenient to use. The WP team enforces th
 
 With my frustration experience with WP, it's time to look for alternatives. A lot of current projects I am working on have adopted Docusaurus, but I mainly use it for the "docs" features. Therefore, I will use its blog feature.
 
-Writing in Markdown is pretty easy, the only issue that I have to type my own publication date. Soon, I will integrate [giscus](https://github.com/giscus/giscus)—with a GitHub account, you can comment on my blog (unfortunately, old comments from WP cannot be carried over).
+Writing in Markdown is pretty easy, the only issue that I have to type my own publication date. ~~Soon,~~ I will integrate [giscus](https://github.com/giscus/giscus)—with a GitHub account, you can comment on my blog (unfortunately, old comments from WP cannot be carried over). [Edit: comment section is now live!]
