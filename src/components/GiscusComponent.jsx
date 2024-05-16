@@ -7,7 +7,7 @@ export default function GiscusComponent() {
 
     return (
         <Giscus
-            repo="nameOfYourGitHubAccount/nameOfCreatedRepository"
+            repo="yell0wsuit/yllst-blog"
             repoId="R_kgDOL8Q9JQ"
             category="General"
             categoryId="DIC_kwDOL8Q9Jc4CfaHn" // E.g. id of "General"
