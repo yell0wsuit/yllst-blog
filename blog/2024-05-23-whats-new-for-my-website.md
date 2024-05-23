@@ -32,6 +32,7 @@ Don't see the changes? Try clearing the browser cache.
   - Previously, the page finished loading but the game list was blank with 0 game.
 - Excluded some unnecessary data from importing/downloading. This makes the zip file smaller.
 - Fixed the Java 2 ME link.
+- Fixed missing progress bar for downloading/exporting game save data.
 - Add a link to this page :).
 
 ### Game updates
