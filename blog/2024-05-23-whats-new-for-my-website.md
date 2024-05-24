@@ -37,4 +37,4 @@ Don't see the changes? Try clearing the browser cache.
 
 ### Game updates
 
-(none)
+- Added: *Like a King!*, *Vivaldia 2*

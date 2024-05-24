@@ -46,6 +46,8 @@ const config = {
                     showReadingTime: true,
                     blogSidebarTitle: "All posts",
                     blogSidebarCount: "ALL",
+                    showLastUpdateTime: true,
+                    showLastUpdateAuthor: true,
                     /*editUrl:
                         "https://github.com/yell0wsuit/yllst-blog/",*/
                 },
