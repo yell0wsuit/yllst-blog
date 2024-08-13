@@ -48,6 +48,7 @@ const config = {
                     blogSidebarCount: "ALL",
                     showLastUpdateTime: true,
                     showLastUpdateAuthor: true,
+                    onUntruncatedBlogPosts: "ignore",
                     /*editUrl:
                         "https://github.com/yell0wsuit/yllst-blog/",*/
                 },

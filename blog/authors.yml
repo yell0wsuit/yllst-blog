@@ -1,5 +1,7 @@
 yell0wsuit:
-  name: yell0wsuit
-  title: Admin
-  url: https://yell0wsuit.page
-  image_url: https://github.com/yell0wsuit.png
+    name: yell0wsuit
+    title: Admin
+    url: https://yell0wsuit.page
+    image_url: https://github.com/yell0wsuit.png
+    socials:
+        github: yell0wsuit
