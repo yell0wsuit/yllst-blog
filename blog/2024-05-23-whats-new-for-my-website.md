@@ -22,6 +22,16 @@ Don't see the changes? Try clearing the browser cache.
 
 :::
 
+## October 22, 2024
+
+### Website updates
+
+- Revamped the website theme. Now using *Tailwind CSS* and *shadcn/ui* for styling.
+- Optimized the code to make the website load faster than ever.
+- Revised the privacy policy to be more transparent.
+- Removed the *Java 2 ME* from the game list. Since the web emulation of J2ME was abandoned by Mozilla in 2018, there is no reason to keep it up with broken, unfinished code that will never be fixed. It's recommended to use fully-fledged emulators on Windows or Android instead. [Visit here to find out list of recommended emulators](https://emulation.gametechwiki.com/index.php/Cellphone_emulators#Java_2_Micro_Edition_.28J2ME.29).
+  - My personal favorite is *KEmulator nnmod* on Windows.
+
 ## May 23, 2024
 
 ### Website updates
