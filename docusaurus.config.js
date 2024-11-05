@@ -135,6 +135,9 @@ const config = {
                 respectPrefersColorScheme: true,
             },
         }),
+    future: {
+        experimental_faster: true,
+    },
 };
 
 export default config;
