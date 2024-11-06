@@ -14,7 +14,11 @@ export default function BlogPostItemWrapper(props) {
     return (
         <>
             <BlogPostItem {...props} />
-            {enableComments && isBlogPostPage && <GiscusComponent />}
+            {enableComments && isBlogPostPage && (
+                <div className="margin-top--md">
+                    <GiscusComponent />
+                </div>
+            )}
         </>
     );
 }
